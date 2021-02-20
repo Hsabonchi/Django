@@ -13,5 +13,7 @@
   -   To create your app, make sure you’re in the same directory as manage.py and type this command:
     -   python manage.py startapp polls 
 
--
+- Installation
+ -   Python
+ -   virtualenv
 
