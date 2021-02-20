@@ -11,9 +11,21 @@
 
 
   -   To create your app, make sure you’re in the same directory as manage.py and type this command:
-    -   python manage.py startapp polls 
+    -   python manage.py startapp polls.
+### Fellow the below Instructions.
+
 
 #### Installation
  -   Python
- -   virtualenv
+ -   virtualenv using pip install virtualenv.
+   -  env to check if the virtual env creatred.
 
+
+  ### activate my Virtual Python Environment For Mac OS    
+    - source env/bin/activate    
+
+### Install Django
+  - pip install django.
+
+### To create a Project (Inside Env)
+  - django-admin startproject dj 
