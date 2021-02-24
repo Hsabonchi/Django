@@ -23,17 +23,11 @@
   - Run ls
       -  You should see your projrct name listed.
    
-
   - Let’s verify your Django project works. 
    - `cd  mysite` , (manage.py  inside that folder) Change into the outer mysite directory, if you haven’t already,
   -  and run the following commands
     -   `python manage.py runserver`
     -   By default, the runserver command starts the development server on the internal IP at port 8000.
-
-### Create a project environment for the Django tutorial
-
-
-
 
 
 ### activate my Virtual Python Environment For Mac OS    
@@ -44,3 +38,17 @@
 
 ### To create a Project (Inside Env)
   - django-admin startproject dj 
+
+---
+
+
+### Create a APP
+ - `python manage.py startapp appname'.
+ -  First,go to main app --> setting.py --> InstalledApp --> add appname to the list
+
+
+#### Files
+<li> `urls.py` sort of table of contents for our web Application</li>
+
+
+
