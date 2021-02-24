@@ -2,6 +2,13 @@
  <p>✔ Python V3. </p>
  <p>✔ Virtualenv - to house all python library that you need (Recommended).  </p>
  
+ #### Installation
+ -   Python
+ -   virtualenv using pip install virtualenv.
+   -  env to check if the virtual env creatred.
+   
+  [Installation_Video_Tutorial](https://www.youtube.com/watch?v=IMG4r03G6g8) 
+ 
 --- 
 #### Creating a project
   - `mkdir HQAForm` (its a folder name `HQAForm` and it can be any names) create a folder that holds env and Django code.
@@ -10,7 +17,7 @@
   - activate my Virtual Python Environment For Mac OS    
        - source env/bin/activate.
   - Install Django  `pip install django.` 
-  - run django-admin startproject `mysite`.
+  - `run django-admin startproject mysite`.
     - This will create a `mysite` directory in your current directory.
   
   - Run ls
@@ -23,17 +30,10 @@
     -   `python manage.py runserver`
     -   By default, the runserver command starts the development server on the internal IP at port 8000.
 
-
-  -   To create your app, make sure you’re in the same directory as manage.py and type this command:
-    -   python manage.py startapp polls.
-    -   
 ### Create a project environment for the Django tutorial
 
 
-#### Installation
- -   Python
- -   virtualenv using pip install virtualenv.
-   -  env to check if the virtual env creatred.
+
 
 
 ### activate my Virtual Python Environment For Mac OS    
