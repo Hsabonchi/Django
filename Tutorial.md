@@ -44,11 +44,14 @@
 
 ### Create a APP
  - `python manage.py startapp appname'.
- -  First,go to main app --> setting.py --> InstalledApp --> add appname to the list
+ -  First,go to main App (project) --> setting.py --> Installed_Apps (What apps are installed on this project) --> add  your new app/appname to the list.
+ - Inorder to create a view in Django, we are going to define a function.
+   -  request arquement represent an http request that the user made in order.  
 
 
 #### Files
 <li> `urls.py` sort of table of contents for our web Application</li>
-
-
-
+<li>`view.py` something user want to see </li>
+<li> </li>
+<li> </li>
+<li> </li>
