@@ -58,6 +58,7 @@
  ▶ create a `urls.py` file for this particular app.
    ▶ urlpatterns=[] list of all the allowable URLs that can be accessed fo this particular app.
    ▶ path (""), views.index,name="index"). ===>a view called index</pre>
+ ▶ HttpResponse is used to pass the information back to view 
 </pre>
 #### Files
 <li> `urls.py` sort of table of contents for our web Application</li>
@@ -65,3 +66,5 @@
 <li> </li>
 <li> </li>
 <li> </li>
+
+
